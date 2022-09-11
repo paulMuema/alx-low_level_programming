@@ -7,4 +7,5 @@
 6-print_numberz.c - prints all single digit numbers of base 20 starting from 0
 7-print_tebahpla.c - prints lowercase alphabets in reverse.
 8-print_base16.c - prints all numbers of base 16 in lowercase.
+9-print_comb.c - prints all possible combinations of single-digit numbers separated by , , followed by a space
 
