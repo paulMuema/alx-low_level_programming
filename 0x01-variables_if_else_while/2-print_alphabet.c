@@ -12,7 +12,7 @@ int main(void)
 
 	for (x = 0; x < 26; x++)
 	{
-		putchar(p[26]);
+		putchar(p[x]);
 	}
 	putchar('\n');
 	return (0);
