@@ -4,3 +4,6 @@
 3-name - compiles a C file and creates an executable names cisfun
 4-puts.c - prints exactly "Programming is like building a multilingual puzzle"
 5-printf.c - prints exactly with proper grammar, but the outcome is a piece of art
+6-size.c - prints the size of various types on the computer it is compiled and run on
+100-intel - generates assembly code of a C code and save it in output file.
+
