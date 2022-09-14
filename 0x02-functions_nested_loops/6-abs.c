@@ -4,7 +4,7 @@
   *_abs - computes absolute value
   *of an integer
   *
-  *@a - input number as an integer
+  *@a: input number as an integer
   *
   *Return: absolute value
   */
