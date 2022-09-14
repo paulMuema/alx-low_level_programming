@@ -7,3 +7,6 @@
 6-abs.c - computes absolute value of an integer
 7-print_last_digit.c - prints last digit of a number.
 
+
+10-add.c - adds two integers and returns result
+
