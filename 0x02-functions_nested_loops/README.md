@@ -11,3 +11,4 @@
 10-add.c - adds two integers and returns result
 11-print_to_98.c - prints all natural numbers from n to 98
 
+101-natural.c - Prints sum of all multiples of 3 or 5
