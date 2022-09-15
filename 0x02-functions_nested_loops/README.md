@@ -6,7 +6,7 @@
 5-sign.c - prints the sign of a number.
 6-abs.c - computes absolute value of an integer
 7-print_last_digit.c - prints last digit of a number.
-
+8-24hours.c - prints Jack Bauer from 00:00 to 23:59
 
 10-add.c - adds two integers and returns result
 
