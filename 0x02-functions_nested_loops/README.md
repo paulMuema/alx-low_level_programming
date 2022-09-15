@@ -7,7 +7,7 @@
 6-abs.c - computes absolute value of an integer
 7-print_last_digit.c - prints last digit of a number.
 8-24hours.c - prints Jack Bauer from 00:00 to 23:59
-
+9-times_table.c - prints times table of 9
 10-add.c - adds two integers and returns result
 11-print_to_98.c - prints all natural numbers from n to 98
 
