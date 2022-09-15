@@ -12,3 +12,4 @@
 11-print_to_98.c - prints all natural numbers from n to 98
 
 101-natural.c - Prints sum of all multiples of 3 or 5
+102-fibonacci.c - prints the first 50 Fibonacci numbers starting with 1 and 2.
